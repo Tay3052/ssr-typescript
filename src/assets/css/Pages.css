@@ -1,0 +1,27 @@
+img {
+  width: 50%;
+  margin: 0 20px 0 20px;
+  border-radius: 10px;
+}
+
+.main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.table {
+  border: 1px solid #ccc;
+}
+
+.flex {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto 0 auto;
+}
+
+.center {
+  text-align: center;
+  margin: 20px 0 0 0;
+}
